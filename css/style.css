@@ -42,7 +42,7 @@ aside a {
 }
 
 aside .special {
-    padding: 1rem;
+    padding: .6rem 1.2rem;
     color: #000;
     background-color: var(--main-color);
 }
